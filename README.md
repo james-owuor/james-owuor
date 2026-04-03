@@ -18,7 +18,7 @@
 
 - 🧪 **Biopython**: sequence parsing, alignment, and phylogenetics  
 - 🧬 **Bash scripting**: for automating pipelines  
-- 🧬 **GATK** (Genome Analysis Toolkit): variant discovery workflows (learning)  
+- 🧬 **GATK** (Genome Analysis Toolkit): variant discovery workflows   
 - 🐍 **Snakemake** & **Nextflow**: scalable pipeline development (in progress)  
 - 📊 **Dash**: for building interactive dashboards and visualizing omics data
 
