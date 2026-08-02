@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm James Owuor
 
-🎓 I'm a passionate **Molecular Biologist** and **Data Scientist** with a strong background in **bioinformatics**, high school teaching, and scientific research. I bring a unique blend of biological expertise and computational skills to extract meaningful insights from biological data.
+🎓 I'm a passionate **Molecular Biologist** and **Data Scientist** with a strong background in **Bioinformatics**, high school teaching, and scientific research. I bring a unique blend of biological expertise and computational skills to extract meaningful insights from biological data.
 
 ---
 
